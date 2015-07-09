@@ -1,2 +1,5 @@
-vender/
+/vender/
 .bundle/
+public/.sass-cache/
+vendor/
+.sass-cache/
