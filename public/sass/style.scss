@@ -16,4 +16,17 @@ div{
   width: 100%;
   height: 50px;
   top: 0;
+  background: #0B7F8C;
+  padding: 10px;
+}
+
+.contents{
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  padding: 10px;
+}
+
+.modal{
+  display: none;
 }
