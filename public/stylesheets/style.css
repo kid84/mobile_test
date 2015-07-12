@@ -107,9 +107,10 @@ h1 {
   width: 100%;
   padding: 20px;
   overflow: auto;
+  -webkit-overflow-scrolling: touch;
 }
 
-/* line 41, ../sass/style.scss */
+/* line 42, ../sass/style.scss */
 .btn {
   -moz-border-radius: 4px;
   -webkit-border-radius: 4px;
@@ -127,15 +128,16 @@ h1 {
   font-size: 16px;
   margin: 20px 0;
   width: 100%;
+  width: 100%;
   display: inline-block;
   padding: 10px;
 }
-/* line 54, ../sass/style.scss */
+/* line 56, ../sass/style.scss */
 .btn:hover {
   opacity: .7;
 }
 
-/* line 59, ../sass/style.scss */
+/* line 61, ../sass/style.scss */
 .modal {
   display: none;
   position: absolute;
@@ -145,4 +147,5 @@ h1 {
   background: #999;
   padding: 20px;
   overflow: auto;
+  -webkit-overflow-scrolling: touch;
 }

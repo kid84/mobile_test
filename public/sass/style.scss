@@ -36,6 +36,7 @@ h1{
   width: 100%;
   padding: 20px;
   overflow: auto;
+  -webkit-overflow-scrolling: touch;
 }
 
 .btn{
@@ -48,6 +49,7 @@ h1{
   border: none;
   font-size: 16px;
   margin: 20px 0;
+  width: 100%;
   width: 100%;
   display: inline-block;
   padding: 10px;
@@ -65,4 +67,5 @@ h1{
   background: #999;
   padding: 20px;
   overflow: auto;
+  -webkit-overflow-scrolling: touch;
 }
